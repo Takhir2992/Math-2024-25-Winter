@@ -9,5 +9,4 @@
 * Find the intersection points of the hyperbola $x^2 - y^2 = 1$ with the ellipse's line $x^2 + 4y^2 = 6$.
 * For the given hyperbola $x^2 - y^2 = 1$, find the distance between its branches.
 <img width="1010" alt="Screenshot 2024-12-04 at 12 09 39" src="https://github.com/user-attachments/assets/82964f60-b986-4b3d-9929-3f35dae2b558">
-
-* 
+<img width="1009" alt="Screenshot 2024-12-04 at 12 09 44" src="https://github.com/user-attachments/assets/4a8bc58f-af71-42a6-b600-669dd6de1a7e">
