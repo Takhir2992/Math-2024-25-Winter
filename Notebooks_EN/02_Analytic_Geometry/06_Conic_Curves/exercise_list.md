@@ -8,3 +8,6 @@
 * Find the slope ($m>0$) of the line $y=mx-5$ that is tangent to the circle with the equation $x^2 + y^2=1$.
 * Find the intersection points of the hyperbola $x^2 - y^2 = 1$ with the ellipse's line $x^2 + 4y^2 = 6$.
 * For the given hyperbola $x^2 - y^2 = 1$, find the distance between its branches.
+<img width="1010" alt="Screenshot 2024-12-04 at 12 09 39" src="https://github.com/user-attachments/assets/b0e38f35-e4b1-4bf8-9a40-997b7ba29c9d">
+
+
